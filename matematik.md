@@ -8,5 +8,5 @@ def foo():
     if not bar:
         return True
 ```
+![python01](https://user-images.githubusercontent.com/89189016/131653143-e6467d26-4be4-48ce-b685-875dde971d29.png)
 
-![enter image description here](https://teknolojio.com.tr/uploads/2021/06/django-nedir-724x394.webp)
